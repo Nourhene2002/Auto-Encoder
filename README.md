@@ -16,7 +16,7 @@ The model learns compressed image representations and restores missing informati
 * Visualization of original vs reconstructed images
 * Deep Learning implementation with TensorFlow/Keras
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * TensorFlow / Keras
